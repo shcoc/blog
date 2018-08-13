@@ -1,0 +1,19 @@
+npm install hexo-symbols-count-time --save 字数
+npm install hexo-generator-feed --save  rss
+npm install hexo-related-popular-posts --save 热帖
+npm install hexo-deployer-git --save
+
+hexo lc-counter register <<username>> <<password>> 注册
+
+npm install valine --save 评论
+npm install hexo-related-popular-posts --save 热度
+npm install hexo-generator-searchdb --save 搜索
+npm install gulp -g
+npm install gulp-minify-css gulp-uglify gulp-htmlmin gulp-htmlclean gulp --save  博文压缩
+npm install hexo-generator-searchdb --save  搜索
+npm install --save hexo-helper-live2d  漂浮
+npm install live2d-widget-model-koharu 漂浮模型
+npm install --save-dev gulp-babel babel-preset-es2015 解决gulp错误//不支持
+//https://segmentfault.com/a/1190000007771583#articleHeader4  
+npm install --save gulp-if
+

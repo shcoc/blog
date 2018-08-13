@@ -1,0 +1,1 @@
+$(function(){var a="/images/my_images/background/",e=new Array;e[0]=a+1+".jpg",e[1]=a+2+".jpg",$.backstretch(e,{duration:6e3,fade:1e3})});
