@@ -1,1 +1,1 @@
-$(function(){var a="/images/my_images/background/",e=new Array;e[0]=a+1+".jpg",e[1]=a+2+".jpg",$.backstretch(e,{duration:6e3,fade:1e3})});
+$(function(){var a=new Array;a[0]="/images/my_images/background/1.jpg";for(var e=2;e<10;e++)a[e-1]="https://shcoc_1.gitee.io/gallery/my_images/background/"+e+".jpg";$.backstretch(a,{duration:3e3,fade:1e3})});
